@@ -9,3 +9,5 @@ This repository contains Jupyter notebook content associated with my series on f
 **(3)** [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0)
 
 **(4)** [Simple Guide to Hyperparameter Tuning in Neural Networks](https://medium.com/@matthew_stewart/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594)
+
+**(5)** [Neural Style Transfer and Visualization of Convolutional Networks](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
